@@ -14,7 +14,7 @@
 ## K-means clustering  hoạt động như thế nào?
 - Khi được cung cấp một tập dữ liệu với các đặc điểm và giá trị (vectơ). Nhiệm vụ chính là phân loại dữ liệu thành các nhóm. Chúng ta sẽ sử dụng thuật toán K-means. ‘K’ trong tên của thuật toán biểu thị số nhóm/cụm mà chúng ta muốn phân loại các mục của mình thành.
 <p align="left">
-  <img src="https://drive.google.com/uc?id=1SLzuB5Jx7gwmlNUTq3TFsEOoaFHbimGd" alt="Example Image" style="width:50%; height:auto;">
+  <img src="https://drive.google.com/file/d/18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf/view" alt="Example Image" style="width:50%; height:auto;">
 </p>
 <p>1. Đầu tiên, chúng ta khởi tạo ngẫu nhiên k điểm, được gọi là trung bình hoặc trọng tâm cụm.</p>
 <p>2. Chúng ta phân loại từng mục theo giá trị trung bình gần nhất và cập nhật tọa độ của giá trị trung bình (là giá trị trung bình của các mục được phân loại trong cụm đó).</p>
