@@ -16,9 +16,9 @@
 <p align="left">
   <img src="https://drive.google.com/uc?id=1SLzuB5Jx7gwmlNUTq3TFsEOoaFHbimGd" alt="Example Image" style="width:50%; height:auto;">
 </p>
-1. Đầu tiên, chúng ta khởi tạo ngẫu nhiên k điểm, được gọi là trung bình hoặc trọng tâm cụm.
-2. Chúng ta phân loại từng mục theo giá trị trung bình gần nhất và cập nhật tọa độ của giá trị trung bình (là giá trị trung bình của các mục được phân loại trong cụm đó).
-3. Chúng ta lặp lại quy trình này trong một số lần lặp nhất định và cuối cùng, chúng ta có các cụm.
+<p>1. Đầu tiên, chúng ta khởi tạo ngẫu nhiên k điểm, được gọi là trung bình hoặc trọng tâm cụm.</p>
+<p>2. Chúng ta phân loại từng mục theo giá trị trung bình gần nhất và cập nhật tọa độ của giá trị trung bình (là giá trị trung bình của các mục được phân loại trong cụm đó).</p>
+<p>3. Chúng ta lặp lại quy trình này trong một số lần lặp nhất định và cuối cùng, chúng ta có các cụm.</p>
 
 ---
 
