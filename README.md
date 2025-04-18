@@ -24,7 +24,7 @@
 
 ## Mô hình sau khi được phân cụm thành công
 <p align="left">
-  <img src="https://drive.google.com/file/d/18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf" alt="Example Image" style="width:50%; height:auto;">
+  <img src="https://drive.google.com/file/d/18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf" alt="EI" style="width:50%; height:auto;">
 </p>
 
 ---
