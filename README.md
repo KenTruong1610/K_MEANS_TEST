@@ -14,9 +14,7 @@
 ## K-means clustering  hoạt động như thế nào?
 - Khi được cung cấp một tập dữ liệu với các đặc điểm và giá trị (vectơ). Nhiệm vụ chính là phân loại dữ liệu thành các nhóm. Chúng ta sẽ sử dụng thuật toán K-means. ‘K’ trong tên của thuật toán biểu thị số nhóm/cụm mà chúng ta muốn phân loại các mục của mình thành.
 ![alt](https://drive.google.com/uc?export=view&id=18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf)
-<p align="left">
-  <img src="https://drive.google.com/file/d/18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf/view" alt="Example Image" style="width:50%; height:auto;">
-</p>
+
 <p>1. Đầu tiên, chúng ta khởi tạo ngẫu nhiên k điểm, được gọi là trung bình hoặc trọng tâm cụm.</p>
 <p>2. Chúng ta phân loại từng mục theo giá trị trung bình gần nhất và cập nhật tọa độ của giá trị trung bình (là giá trị trung bình của các mục được phân loại trong cụm đó).</p>
 <p>3. Chúng ta lặp lại quy trình này trong một số lần lặp nhất định và cuối cùng, chúng ta có các cụm.</p>
@@ -24,9 +22,7 @@
 ---
 
 ## Mô hình sau khi được phân cụm thành công
-<p align="left">
-  <img src="https://drive.google.com/file/d/18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf" alt="EI" style="width:50%; height:auto;">
-</p>
+![alt](https://drive.google.com/uc?export=view&id=18Lb6_cTRinQK8OEj-PD8pmaER7IiSxDf)
 
 ---
 ### Tóm lại, K-means clustering là một thuật toán học máy không giám sát mạnh mẽ để nhóm các tập dữ liệu không có nhãn. Mục tiêu: chia dữ liệu thành các cụm, biến các điểm dữ liệu tương tự thành một phần của cùng một nhóm. Thuật toán khởi tạo các tâm cụm và gán lặp lại các điểm dữ liệu cho tâm gần nhất, cập nhật các tâm dựa trên giá trị trung bình của các điểm trong mỗi cụm.
